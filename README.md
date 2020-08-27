@@ -5,7 +5,7 @@ Here you can find workshop notebooks for GenePattern workshops
 
 # A GenePattern Notebooks Primer
 
-GenePattern Notebooks are a built upon the popular Jupyter Notebooks, adding all of the functionality of the GenePattern platform to them while making them accesible to non-programmers.
+GenePattern Notebooks are built upon the popular Jupyter Notebooks, adding all of the functionality of the GenePattern platform to them while making them accesible to non-programmers.
 
 To begin, follow this link to register a new GenePattern account: https://notebook.genepattern.org/hub/login.
 
